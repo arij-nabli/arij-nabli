@@ -16,8 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=arij-nabli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arij-nabli&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=arij-nabli&label=Profile%20Views&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=arij-nabli&label=photo&color=6&pretty=false" />
 </a>
