@@ -20,6 +20,4 @@ I'm a Full-Stack web developer from Tunisia. Thank You for taking the time to vi
 ![](https://github-profile-trophy.vercel.app/?username=arij-nabli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=arij-nabli&label=photo&color=6&pretty=false" />
-</a>
+
